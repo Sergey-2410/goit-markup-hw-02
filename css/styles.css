@@ -1,6 +1,6 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
   background-color: #ffffff;
   line-height: 1.5;
 }
@@ -65,8 +65,7 @@ h1 {
 .section1 {
   background: #2e2f42;
   width: 1440px;
-  top: 72px;
-  gap: 0px;
+
   opacity: 0px;
 }
 .button {
