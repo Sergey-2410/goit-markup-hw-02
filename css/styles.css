@@ -14,19 +14,23 @@ h3 {
 ul {
   list-style-type: none;
 }
+
 /*Header*/
+.contacts {
+  font-style: normal;
+}
 .webstudio {
   text-decoration: none;
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-align: left;
-}
-.web {
+  text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .studio {
   color: #2e2f42;
 }
@@ -41,9 +45,15 @@ ul {
   letter-spacing: 0.02em;
   text-align: left;
 }
+.menu-link:hover {
+  color: #404bbf;
+}
+.menu-link:focus {
+  color: #404bbf;
+}
 
 .contact-link {
-  color: #2e2f42;
+  color: #434455;
   text-decoration: none;
   font-family: Roboto;
   font-size: 16px;
@@ -51,6 +61,12 @@ ul {
   line-height: 24px;
   letter-spacing: 0.02em;
   text-align: left;
+}
+.contact-link:hover {
+  color: #404bbf;
+}
+.contact-link:focus {
+  color: #404bbf;
 }
 
 /*Section1*/
