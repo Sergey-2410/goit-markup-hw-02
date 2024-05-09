@@ -17,7 +17,7 @@ ul {
 /*Header*/
 .webstudio {
   text-decoration: none;
-  font-family: Raleway;
+  font-family: "Raleway";
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
@@ -65,7 +65,8 @@ h1 {
 .section1 {
   background: #2e2f42;
   width: 1440px;
-
+  top: 72px;
+  gap: 0px;
   opacity: 0px;
 }
 .button {
