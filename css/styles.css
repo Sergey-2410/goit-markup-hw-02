@@ -69,24 +69,34 @@ ul {
 }
 
 /*Section1*/
-h1 {
+.title-h1 {
   color: #ffffff;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
 }
 .section1 {
-  background: #2e2f42;
+  background-color: #2e2f42;
   opacity: 0px;
 }
 .button {
-  background: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  background-color: #4d5ae5;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
   cursor: pointer;
 }
-.text-button {
-  color: #ffffff;
+.button:hover {
+  background-color: #404bbf;
+}
+.button:focus {
+  background-color: #404bbf;
 }
 
 /*Section3*/
