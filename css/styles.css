@@ -69,7 +69,7 @@ ul {
 }
 
 /*Section1*/
-.title-h1 {
+.solution-title {
   color: #ffffff;
   font-size: 56px;
   font-weight: 700;
@@ -77,8 +77,9 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
 }
-.section1 {
+.section-header {
   background-color: #2e2f42;
+  opacity: 0px;
 }
 .button {
   font-family: "Roboto", sans-serif;
