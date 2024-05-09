@@ -99,12 +99,21 @@ ul {
   background-color: #404bbf;
 }
 
+/*Section2*/
+.features-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
 /*Section3*/
 .section3 {
   background: #f4f4fd;
 }
 
-.title-h2 {
+.our-team-title {
   font-size: 36px;
   font-weight: 700;
   line-height: 40px;
