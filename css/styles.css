@@ -37,7 +37,7 @@ ul {
 .menu-link {
   color: #2e2f42;
   text-decoration: none;
-  font-family: Roboto;
+  font-family: "Roboto";
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -90,7 +90,6 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  cursor: pointer;
 }
 .button:hover {
   background-color: #404bbf;
